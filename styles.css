@@ -243,6 +243,10 @@ h2 {
     transform: translateY(3px);
 }
 
+.button a {
+    color: white;
+}
+
 .button a:visited {
     color: white;
 }
